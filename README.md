@@ -1,6 +1,5 @@
 # Mel-Frequency-Cepstral-Coefficients-MFCC:
 
-##### .............................................................................
 
 ### Mel Frequency Cepstral Coefficients (MFCC) Using SciPy:
 <br/>
@@ -18,7 +17,7 @@ python_speech_features.mfcc (to convert to MFCC)
 
 
 When you succeed in returning the correct file, you will "see" the MFCC spectrum in the output similar to the following:
-
+##### ................................................................................
 
 
 <br/><br/>
