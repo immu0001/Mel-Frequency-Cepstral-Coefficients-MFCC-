@@ -21,6 +21,6 @@ When you succeed in returning the correct file, you will "see" the MFCC spectrum
 
 
 <br/><br/>
-<img height=600 width=850 src="raw-audio.png">
+<img height=450 width=850 src="raw-audio.png">
 <br/><br/>
-<img height=600 width=850 src="normalized-mfcc.png">
+<img height=450 width=850 src="normalized-mfcc.png">
